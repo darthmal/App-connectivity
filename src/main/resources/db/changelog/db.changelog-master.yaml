@@ -1,0 +1,14 @@
+databaseChangeLog:
+  -  preCondition:
+       -  preConditionName:
+            preConditionAttribute:  value
+
+  -  changeSet:
+       id:  value
+       author:  value
+       changes:
+         -  changeTypeName:
+              changeTypeAttribute:  value
+              nestedElementGroup:
+                -  nestedElementName:
+                     nestedElementAttribute:  value
